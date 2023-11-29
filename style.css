@@ -28,3 +28,40 @@
     left: 16px;
     color: white;
 }
+
+.project {
+    font-size: 40px;
+}
+
+.project1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-image: url("project1-Background.png"); */
+    background-color: azure;
+    color: black;
+}
+
+.project-title {
+    font-weight: 700;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(30, 8, 97);
+}
+
+.Skills {
+    font-size: 45px;
+    display: inline;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.logo1 {
+
+    padding: 20px;
+}
